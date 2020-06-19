@@ -1,5 +1,3 @@
-
-put "Hello, Raku!!!";
-
-my $name = prompt ("digite seu nome: ");
-say "Olá $name!";
+put "\nHello, I'm Raku!!!... Let's go! \n";
+my $name = prompt ("Enter your name: ");
+say "Hey $name, what's up?\n";
